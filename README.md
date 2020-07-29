@@ -4,7 +4,7 @@ React project that uses [HP-API](https://hp-api.herokuapp.com/) to show and filt
 
 
 
-![](src/img/forReadMe.png)
+![webpage](src/img/forReadMe.png)
 
 # Usage
 
