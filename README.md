@@ -23,4 +23,4 @@ npm start
 npm run build
 ```
 
-This project was build based on [this tutorial](https://www.youtube.com/watch?v=YaioUnMw0mo)
+This project was built based on [this tutorial](https://www.youtube.com/watch?v=YaioUnMw0mo)
