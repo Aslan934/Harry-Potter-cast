@@ -1,6 +1,6 @@
 # Harry Potter characters
 
-React project that uses [HP-API](https://hp-api.herokuapp.com/) to show and filter characters from series on a simple web page
+React project that uses [HP-API](https://hp-api.herokuapp.com/) to show and filter characters from Harry Potter series on a simple web page
 
 
 
